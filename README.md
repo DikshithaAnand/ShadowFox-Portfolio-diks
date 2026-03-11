@@ -107,7 +107,7 @@ To create a production build:
 npm run build
 ```
 
-> Note
+> Note :This is my portfolio for your references.
 
 ## Author
 
