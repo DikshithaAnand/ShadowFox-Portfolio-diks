@@ -15,12 +15,14 @@ You can view the portfolio after running the project locally or when deployed on
 
 ## Tech Stack
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Node.js
-- Git & GitHub
+- **React.js** – Frontend library for building the user interface  
+- **JavaScript** – Core programming language used in the project  
+- **HTML5** – Structure of the web pages  
+- **CSS3** – Styling and responsive design  
+- **Node.js** – Runtime environment for development  
+- **Git & GitHub** – Version control and project hosting  
+- **npm** – Package management and dependency handling  
+- **VS Code** – Code editor used for development
 
 ---
 
