@@ -39,8 +39,6 @@ You can view the portfolio after running the project locally or when deployed on
 
 ## Project Structure
 
-## Project Structure
-
 ```
 my-portfolio/
 │
