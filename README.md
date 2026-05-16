@@ -1,45 +1,45 @@
 # Dikshitha's Portfolio
 
-This is my personal developer portfolio built using **React.js**.  
-It showcases my projects, technical skills, and contact information.
+A personal developer portfolio built using **React.js** to showcase my projects, technical skills, achievements, and learning journey in software development, AI/ML, and modern web technologies.
 
-The goal of this portfolio is to present my work, learning journey, and interests in software development, AI/ML, and web technologies.
+This portfolio reflects my passion for technology, continuous learning, and creating clean, responsive, and user-friendly web applications.
 
 ---
 
-## Live Preview
+## Live Demo
 
-You can view the portfolio after running the project locally or when deployed online.
+The portfolio can be viewed locally after running the project or through the deployed website link.
 
 ---
 
 ## Tech Stack
 
-- **React.js** – Frontend library for building the user interface  
-- **JavaScript** – Core programming language used in the project  
-- **HTML5** – Structure of the web pages  
-- **CSS3** – Styling and responsive design  
-- **Node.js** – Runtime environment for development  
-- **Git & GitHub** – Version control and project hosting  
-- **npm** – Package management and dependency handling  
-- **VS Code** – Code editor used for development
+- **React.js** — Frontend library for building interactive user interfaces
+- **JavaScript** — Core programming language used in development
+- **HTML5** — Web page structure and content
+- **CSS3** — Styling, layouts, and responsive design
+- **Node.js** — Runtime environment for development
+- **npm** — Dependency and package management
+- **Git & GitHub** — Version control and project hosting
+- **VS Code** — Development environment and code editor
 
 ---
 
 ## Features
 
-- Responsive portfolio website
-- Projects showcase section
-- Skills section
-- About me section
-- Contact information
-- Clean and modern UI
+- Fully responsive portfolio website
+- Modern and clean user interface
+- About Me section
+- Technical skills showcase
+- Projects display section
+- Contact information section
+- Smooth navigation and organized layout
 
 ---
 
 ## Project Structure
 
-```
+```bash
 my-portfolio/
 │
 ├── public/
@@ -57,7 +57,6 @@ my-portfolio/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
 
 ---
 
