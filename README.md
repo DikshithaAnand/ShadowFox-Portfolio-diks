@@ -27,13 +27,13 @@ This portfolio reflects my passion for technology, continuous learning, and crea
 
 ## Features
 
-- Fully responsive portfolio website
-- Modern and clean user interface
-- About Me section
-- Technical skills showcase
-- Projects display section
-- Contact information section
-- Smooth navigation and organized layout
+- Fully responsive design
+- Modern UI/UX layout
+- Smooth navigation experience
+- Reusable React components
+- Project showcase section
+- Skills and technology section
+- Contact and social links integration
 
 ---
 
