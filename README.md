@@ -8,7 +8,7 @@ This portfolio reflects my passion for technology, continuous learning, and crea
 
 ## Live Demo
 
-The portfolio can be viewed locally after running the project or through the deployed website link.
+🔗 Deployment Coming Soon
 
 ---
 
