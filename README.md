@@ -57,6 +57,7 @@ my-portfolio/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ---
 
