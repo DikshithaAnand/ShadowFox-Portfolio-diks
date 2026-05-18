@@ -1,4 +1,4 @@
-# Dikshitha's Portfolio
+# 🌐 Dikshitha's Developer Portfolio
 
 A personal developer portfolio built using **React.js** to showcase my projects, technical skills, achievements, and learning journey in software development, AI/ML, and modern web technologies.
 
