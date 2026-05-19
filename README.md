@@ -30,6 +30,14 @@ This portfolio reflects my passion for technology, continuous learning, and crea
 
 ---
 
+### 🚀 Additional Skills
+- Responsive Web Design
+- Component-Based Architecture
+- UI/UX Focused Development
+- Clean and Maintainable Code Practices
+
+---
+
 ## Features
 
 - Fully responsive design
