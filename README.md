@@ -12,16 +12,13 @@ This portfolio reflects my passion for technology, continuous learning, and crea
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **React.js** — Frontend library for building interactive user interfaces
-- **JavaScript** — Core programming language used in development
-- **HTML5** — Web page structure and content
-- **CSS3** — Styling, layouts, and responsive design
-- **Node.js** — Runtime environment for development
-- **npm** — Dependency and package management
-- **Git & GitHub** — Version control and project hosting
-- **VS Code** — Development environment and code editor
+### 💻 Frontend Development
+- **React.js** — Building modern and interactive user interfaces
+- **JavaScript (ES6+)** — Core programming language for frontend logic
+- **HTML5** — Structuring web pages and content
+- **CSS3** — Responsive layouts, styling, and animations
 
 ---
 
