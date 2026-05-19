@@ -22,6 +22,14 @@ This portfolio reflects my passion for technology, continuous learning, and crea
 
 ---
 
+### ⚙️ Development Tools & Environment
+- **Node.js** — Runtime environment for development
+- **npm** — Package and dependency management
+- **Git & GitHub** — Version control and collaboration
+- **VS Code** — Code editor and development environment
+
+---
+
 ## Features
 
 - Fully responsive design
